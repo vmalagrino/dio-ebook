@@ -10,7 +10,7 @@ Estudo utilizando a ferramenta de IA manus para gerar um ebook sobre HTML e CSS 
 ## ✨ Criação
 
 - Nome e imagem de capa gerados no chatgpt
-- Ebookgerado no manus
+- Ebook gerado no manus
 
 ## 🛠️ Instruções
 
