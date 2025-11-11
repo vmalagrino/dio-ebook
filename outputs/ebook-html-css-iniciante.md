@@ -1,3 +1,5 @@
+![A imagem é a capa de um eBook com fundo azul claro. Na parte superior, em letras grandes e escuras, está escrito “HTML & CSS”. Logo abaixo, em texto menor, lê-se: “O Guia Para Quem Não Quer Quebrar a Página (Nem a Cabeça)”.](/outputs/imagemcapa.png)
+
 # HTML & CSS: O Guia Para Quem Não Quer Quebrar a Página (Nem a Cabeça)
 
 **Autor:** Manus AI
