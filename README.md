@@ -13,4 +13,5 @@ Estudo utilizando a ferramenta de IA manus para gerar um ebook sobre HTML e CSS 
 
 ## 🛠️ Instruções
 
+- Usar o promt no `chatgpt` para gerar o título e imagem de capa
 - Usar o prompt no `manus` para gerar o Ebook
